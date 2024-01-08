@@ -1,0 +1,31 @@
+h1{
+    color: coral;
+    text-align: center;
+}
+
+h5{
+    color:rgb(18, 102, 110);
+    text-align: center;
+}
+
+h3{
+    color: brown;
+    text-decoration: underline;
+}
+
+img{
+    padding-top: 25px;
+    height: 300px;
+    width: 500px;
+}
+
+.lol{
+    display: flex;
+    justify-content: center;
+}
+
+.pop{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
